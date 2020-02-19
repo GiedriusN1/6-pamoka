@@ -6,8 +6,8 @@ public class SachmatuLenta
 	public static void main(String[] args) 
 	{
 		BigInteger vienas, du, next, grudu;
- 	    int langeliu =  64;
-	    du = new BigInteger("2");
+ 	        int langeliu =  64;
+	        du = new BigInteger("2");
 		vienas = new BigInteger("1");
 		next  = new BigInteger("1"); // keliant laipsniu, nereikia siu eiluciu
 		grudu = new BigInteger("1"); //
