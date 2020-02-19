@@ -2,7 +2,6 @@ import java.math.BigInteger;
 
 public class SachmatuLenta 
 {
-
 	public static void main(String[] args) 
 	{
 		BigInteger vienas, du, next, grudu;
